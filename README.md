@@ -11,7 +11,7 @@ The game is still in development. All the scripts are commented, with additional
 ![Gameplay Gif](GameImages/version2Gif_forPresentation.gif)
 
 ## Try the Game
-The game can be played directly on the [itch.io page ]()
+The game can be played directly on the [itch.io page ](https://ivanniko.itch.io/epidemic-choices?secret=tJ8eAGHibA462JlkFXxYShYxO8)
 <!-- [Image Start Screen](docs/CONTRIBUTING.md)-->
 
 ## Getting Started

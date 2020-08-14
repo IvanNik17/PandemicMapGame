@@ -8,6 +8,8 @@ The game is made for Unity WebGL and is currently in alpha state. It currently c
 
 The game is still in development. All the scripts are commented, with additional in Inspector comments. The code is quite messy and lacks a lot of refactoring and optimizations. In currently relies on variable reflection assigments and contains redundancies, which can be fixed with better exploiting of class inheritance. Global classes are set as singletons, but the code still lacks a lot of proper encapsulation.
 
+![Gameplay Gif](GameImages/version2Gif_forPresentation.gif)
+
 ## Try the Game
 The game can be played directly on the [itch.io page ]()
 <!-- [Image Start Screen](docs/CONTRIBUTING.md)-->

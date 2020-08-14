@@ -35,7 +35,7 @@ There are a number of ways to get started with the Unity project:
 
  - Clone the repo
 ```
-git clone https://github.com/COVID-19-WP4/covid19-unity.git
+git clone https://github.com/IvanNik17/PandemicMapGame.git
 ```
  - Download the newest release: [LINK]()
 
